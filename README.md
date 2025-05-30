@@ -9,18 +9,18 @@ This is my GitHub account, where I have repos for some of my [AI research](https
 [my high school comp sci classes](https://github.com/kccaterworld/kcater70IntroToCS),
 and [my own personal website](https://github.com/kccaterworld/kccaterworld.github.io) hosted.
 
-You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me.
+You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore){:target="_blank"}, which is hosted on GitLab, and was written and is still maintained by me.
 
-My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
+My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==){:target="_blank"} and [Discord](https://discord.com/users/1137731457167659031){:target="_blank"} is ProfessorKamel, and my email is kc@caterworld.xyz.
 
 Feel free to reach out, I'll respond as quickly as I can.
 
 ## 🔭 Current Major Projects:
-As of June 2025, I will have finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) and will be starting AP Computer Science in the fall.
+As of June 2025, I will have finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS){:target="_blank"} and will be starting AP Computer Science in the fall.
 
 I'll make an APCS repository when the time comes, there's no need to make a repository that'll be empty all summer.
 
-I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), and the grind truly never ends.
+I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io){:target="_blank"}, and the grind truly never ends.
 
 That's really it in terms of projects in progress right now, I don't have time for much more.
 
@@ -29,16 +29,16 @@ Insert stuff here later when it's not midnight on a school night
 
 ## 📫 How to reach me:
 ### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
-Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
+Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==){:target="_blank"}
 
-Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
+Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031){:target="_blank"}
 
-Facebook: [ProfessorKamel](https://www.facebook.com/share/1ESDT8K8Sa/)
+Facebook: [ProfessorKamel](https://www.facebook.com/share/1ESDT8K8Sa/){:target="_blank"}
 
-Pintrest: [Kemal Cater](https://www.pinterest.com/kemalcater/)
+Pintrest: [Kemal Cater](https://www.pinterest.com/kemalcater/){:target="_blank"}
 
-Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
+Google for Developers: [ProfessorKamel](http://g.dev/professorkamel){:target="_blank"}
 
-Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266)
+Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266){:target="_blank"}
 
 [Back To The Top](#hi-omigosh-welcome)
