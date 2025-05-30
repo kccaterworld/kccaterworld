@@ -1,6 +1,6 @@
 ## Hi omigosh welcome!
 
-Quick Nav: <br> [Current Projects](#-current-major-projects) <br> [All Projects](#-my-various-projects-on-here) <br> [Contact](#-how-to-reach-me)
+Quick Nav: <br> [Current Projects](#-current-major-projects)      [All Projects](#-my-various-projects-on-here)      [Contact](#-how-to-reach-me)
 
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
