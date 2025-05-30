@@ -25,6 +25,7 @@ I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.
 That's really it in terms of projects in progress right now, I don't have time for much more.
 
 ## 💻 My various projects on here
+Insert stuff here later when it's not midnight on a school night
 
 ## 📫 How to reach me:
 ### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
@@ -40,4 +41,4 @@ Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
 
 Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266)
 
-[Back Home](#hi-omigosh-welcome)
+[Back To The Top](#hi-omigosh-welcome)
