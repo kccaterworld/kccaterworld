@@ -13,14 +13,16 @@ My username on [Instagram](https://www.instagram.com/professorkamel/) and [Disco
 
 Feel free to reach out, I'll respond as quickly as I can.
 
-<br><br>
-
-- 🔭 Current Major Projects:
+## 🔭 Current Major Projects:
 
 
-- 📫 How to reach me:
-
-
+## 📫 How to reach me:
+Instagram: 
+Discord: 
+Facebook: 
+Pintrest: 
+Google for Developers: 
+Spotify: 
 
 <!--
 Here are some ideas to get you started:
