@@ -27,7 +27,7 @@ That's really it in terms of projects in progress right now, I don't have time f
 
 ## 💻 My various projects on here
 ### [My Website](https://github.com/kccaterworld/kccaterworld.github.io)
-
+My personal website, where I'm testing and learning Jekyll and Markdown
 
 Repository Structure:
 
@@ -45,12 +45,19 @@ The repository for a reasearch project I did as part of the Inspirit AI+X progra
 
 Repository Structure:
 
+
 Notes:
 
 ### [Intro to Computer Science Class](https://github.com/kccaterworld/kcater70IntroToCS)
+The repository for my High School Intro to Computer Science class, which I took during the 2024-2025 school year.
 
+In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python.
+Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
 
 Repository Structure:
+- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md)
+- HTML: Contains all the HTML code
+  -Folders
 
 Notes:
 
