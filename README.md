@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is my GitHub account, where I have repos for some of my [AI research](https://github.com/kccaterworld/inspiritwork),
+[my high school comp sci classes](https://github.com/kccaterworld/kcater70IntroToCS),
+and [my own personal website](https://github.com/kccaterworld/kccaterworld.github.io) hosted.
+
+My username on [Instagram](https://www.instagram.com/professorkamel/) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
+
+Feel free to reach out, I'll respond as quickly as I can.
+
 <!--
 **kccaterworld/kccaterworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
