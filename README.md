@@ -41,6 +41,6 @@ Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
 
 Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266)
 
-<br><br>
+<br>
 
 [Back To The Top](#hi-omigosh-welcome)
