@@ -25,7 +25,33 @@ I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.
 That's really it in terms of projects in progress right now, I don't have time for much more.
 
 ## 💻 My various projects on here
-Insert stuff here later when it's not midnight on a school night
+# [My Website](https://github.com/kccaterworld/kccaterworld.github.io)
+
+
+Repository Structure:
+
+Notes:
+
+# [My Personal Repository](https://github.com/kccaterworld/kccaterworld)
+Most of my single-file or small scale projects are in here, just to access files between devices.
+
+Repository Structure:
+
+Notes:
+
+# [Inspirit AI+X](https://github.com/kccaterworld/inspiritwork)
+The repository for a reasearch project I did as part of the Inspirit AI+X program.
+
+Repository Structure:
+
+Notes:
+
+# [Intro to Computer Science Class](https://github.com/kccaterworld/kcater70IntroToCS)
+
+
+Repository Structure:
+
+Notes:
 
 ## 📫 How to reach me:
 ### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
