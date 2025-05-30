@@ -9,7 +9,7 @@ and [my own personal website](https://github.com/kccaterworld/kccaterworld.githu
 
 You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me.
 
-My username on [Instagram](https://www.instagram.com/professorkamel/) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
+My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
 
 Feel free to reach out, I'll respond as quickly as I can.
 
@@ -17,12 +17,18 @@ Feel free to reach out, I'll respond as quickly as I can.
 
 
 ## 📫 How to reach me:
-Instagram: 
-Discord: 
-Facebook: 
-Pintrest: 
-Google for Developers: 
-Spotify: 
+#(As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
+Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
+
+Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
+
+Facebook: [ProfessorKamel](https://www.facebook.com/share/1ESDT8K8Sa/)
+
+Pintrest: [Kemal Cater](https://www.pinterest.com/kemalcater/)
+
+Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
+
+Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266)
 
 <!--
 Here are some ideas to get you started:
