@@ -1,5 +1,7 @@
 ## Hi omigosh welcome!
 
+Quick Nav: <br> [Current Projects](#🔭-Current-Major-Projects:) <br> [All Projects](#💻-My-various-projects-on-here) <br>[Contact](#📫-How-to-reach-me:)
+
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
 
@@ -14,7 +16,15 @@ My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWR
 Feel free to reach out, I'll respond as quickly as I can.
 
 ## 🔭 Current Major Projects:
+As of June 2025, I will have finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) and will be starting AP Computer Science in the fall.
 
+I'll make an APCS repository when the time comes, there's no need to make a repository that'll be empty all summer.
+
+I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), and the grind truly never ends.
+
+That's really it in terms of projects in progress right now, I don't have time for much more.
+
+## 💻 My various projects on here
 
 ## 📫 How to reach me:
 ### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
@@ -29,13 +39,3 @@ Pintrest: [Kemal Cater](https://www.pinterest.com/kemalcater/)
 Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
 
 Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4?si=beaea893c13c4266)
-
-<!--
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
