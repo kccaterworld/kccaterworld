@@ -58,7 +58,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 
 <details open>
 <summary>Repository Structure:</summary>
-<md>
+
 - [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository. It still needs to be updated.
 - [HTML](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/HTML): Contains all the HTML files
   - MyWebsite: Folder for MyWebsite project
@@ -92,7 +92,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
     - CSV data file
 - [Racket](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Racket): Contains all the DrRacket files
   - All Racket files (no subdirectories)\
-</md>
+
 </details>
 
 Notes:
