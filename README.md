@@ -1,7 +1,6 @@
-## Hi omigosh welcome!
+# kccaterworld
 
-| Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact](#-how-to-reach-me) |
-| ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
+## Hi omigosh welcome!
 
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
@@ -15,6 +14,9 @@ You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), whi
 My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
 
 Feel free to reach out, I'll respond as quickly as I can.
+
+| Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact](#-how-to-reach-me) |
+| ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
 
 ## 🔭 Current Major Projects:
 As of June 2025, I will have finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) and will be starting AP Computer Science in the fall.
