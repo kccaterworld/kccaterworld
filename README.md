@@ -31,22 +31,36 @@ That's really it in terms of projects in progress right now, I don't have time f
 ### [My Website](https://github.com/kccaterworld/kccaterworld.github.io)
 My personal website, where I'm testing and learning Jekyll and Markdown
 
-Repository Structure:
+<details open>
+<summary>Repository Structure:</summary>
+
+Stuff
+
+</details>
 
 Notes:
 
 ### [My Personal Repository](https://github.com/kccaterworld/kccaterworld)
 Most of my single-file or small scale projects are in here, just to access files between devices.
 
-Repository Structure:
+<details open>
+<summary>Repository Structure:</summary>
+
+Stuff
+
+</details>
 
 Notes:
 
 ### [Inspirit AI+X](https://github.com/kccaterworld/inspiritwork)
 The repository for a reasearch project I did as part of the Inspirit AI+X program.
 
-Repository Structure:
+<details open>
+<summary>Repository Structure:</summary>
 
+Stuff
+
+</details>
 
 Notes:
 
