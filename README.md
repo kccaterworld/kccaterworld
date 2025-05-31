@@ -56,7 +56,8 @@ The repository for my High School Intro to Computer Science class, which I took 
 In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python.
 Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
 
-Repository Structure:
+<details open>
+<summary>Repository Structure:</summary>
 - [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository. It still needs to be updated.
 - [HTML](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/HTML): Contains all the HTML files
   - MyWebsite: Folder for MyWebsite project
@@ -90,6 +91,7 @@ Repository Structure:
     - CSV data file
 - [Racket](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Racket): Contains all the DrRacket files
   - All Racket files (no subdirectories)
+</details>
 
 Notes:
 
