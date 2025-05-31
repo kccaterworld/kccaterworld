@@ -56,7 +56,8 @@ Notes:
 The repository for a reasearch project I did as part of the Inspirit AI+X program.
 
 <details open>
-<summary>Repository Structure:</summary>
+
+#### <summary>Repository Structure:</summary>
 
 Stuff
 
