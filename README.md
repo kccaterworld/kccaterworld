@@ -59,7 +59,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 Repository Structure:
 - [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md)
 - HTML: Contains all the HTML code
-  -Folders
+  - Folders
 
 Notes:
 
