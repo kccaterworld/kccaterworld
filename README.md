@@ -59,7 +59,37 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 Repository Structure:
 - [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md)
 - HTML: Contains all the HTML code
-  - Folders
+  - MyWebsite: Folder for MyWebsite project
+  - Other HTML files
+- NetLogo
+- Python: Contains all the DrRacket code
+  - DataProject: Folder for DataProject project
+    - CSS: CSS for the project
+    - HTML: HTML files are written to this directory
+    - IMG: Images are saved to this directory
+    - Main Python file
+    - CSV data file
+  - Misc: Contains all other Python files
+  - pokemon: Folder for pokemon Project
+    - CSS: The CSS file is written to this directory
+    - HTML: HTML files are written to this directory 
+    - img: Images for the project
+      - back: Images of the back of the pokemon
+      - front: Images of the front of the pokemon
+      - inteleon image
+    - Main Python file
+    - CSV data file
+  - pokemonTemplate: Folder with v2/template of my pokemon project
+    - CSS: The CSS file is written to this directory
+    - HTML: HTML files are written to this directory 
+    - img: Images for the project
+      - back: Images of the back of the pokemon
+      - front: Images of the front of the pokemon
+    - Main Python file
+    - CSV data file
+- Racket: Contains all the DrRacket code
+  - All Racket files (no subdirectories)
+- README.md: README file for this Repository. It still needs to be updated.
 
 Notes:
 
