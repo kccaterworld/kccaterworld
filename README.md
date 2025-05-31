@@ -57,12 +57,13 @@ In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python
 Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
 
 Repository Structure:
-- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md)
-- HTML: Contains all the HTML code
+- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository. It still needs to be updated.
+- [HTML](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/HTML): Contains all the HTML files
   - MyWebsite: Folder for MyWebsite project
   - Other HTML files
-- NetLogo
-- Python: Contains all the DrRacket code
+- [NetLogo](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/NetLogo): Contains all the NetLogo files
+  - All NetLogo files (no subdirectories)
+- [Python](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Python): Contains all the Python files
   - DataProject: Folder for DataProject project
     - CSS: CSS for the project
     - HTML: HTML files are written to this directory
@@ -87,9 +88,8 @@ Repository Structure:
       - front: Images of the front of the pokemon
     - Main Python file
     - CSV data file
-- Racket: Contains all the DrRacket code
+- [Racket](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Racket): Contains all the DrRacket files
   - All Racket files (no subdirectories)
-- README.md: README file for this Repository. It still needs to be updated.
 
 Notes:
 
