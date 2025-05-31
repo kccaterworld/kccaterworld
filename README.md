@@ -2,6 +2,9 @@
 
 ## Hi omigosh welcome!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)](https://git.io/typing-svg)
+
+
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
 
@@ -29,41 +32,46 @@ That's really it in terms of projects in progress right now, I don't have time f
 
 ## 💻 My various projects on here
 ### [My Website](https://github.com/kccaterworld/kccaterworld.github.io)
-My personal website, where I'm testing and learning Jekyll and Markdown
+My personal website, where I'm testing and learning Jekyll and Markdown.
 
-<details open>
+It is very empty and bare bones, but it works!
+
+<details>
 <summary>Repository Structure:</summary>
 
-Stuff
+- [assets](https://github.com/kccaterworld/kccaterworld.github.io/tree/main/assets): Folder containing all the assets for this website
+  - [css](https://github.com/kccaterworld/kccaterworld.github.io/tree/main/assets/css): Folder containing my stylesheet
+- 404.html: 404 page for my website
+- _config.yml: Not totally sure what this one does, it's from the GitHub Pages stuff
+- index.md: My homepage markdown file
+- testmark.md: Testing page for the website
 
 </details>
-
-Notes:
 
 ### [My Personal Repository](https://github.com/kccaterworld/kccaterworld)
 Most of my single-file or small scale projects are in here, just to access files between devices.
 
-<details open>
+Currently only contains my profile README
+
+<details>
 <summary>Repository Structure:</summary>
 
-Stuff
+- [README.md](https://github.com/kccaterworld/kccaterworld/blob/main/README.md): This README file
 
 </details>
-
-Notes:
 
 ### [Inspirit AI+X](https://github.com/kccaterworld/inspiritwork)
 The repository for a reasearch project I did as part of the Inspirit AI+X program.
 
-<details open>
+We used a few types of AI model to classify paintings by art style.
 
-#### <summary>Repository Structure:</summary>
+<details>
+<summary> Repository Structure: </summary>
 
-Stuff
+- [README.md](https://github.com/kccaterworld/inspiritwork/blob/main/README.md): README file for this Repository
+- mainish.ipynb: The Jupyter notebook containing all the code for the project
 
 </details>
-
-Notes:
 
 ### [Intro to Computer Science Class](https://github.com/kccaterworld/kcater70IntroToCS)
 The repository for my High School Intro to Computer Science class, which I took during the 2024-2025 school year.
@@ -71,7 +79,7 @@ The repository for my High School Intro to Computer Science class, which I took 
 In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python.
 Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
 
-<details open>
+<details>
 <summary>Repository Structure:</summary>
 
 - [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository. It still needs to be updated.
@@ -109,8 +117,6 @@ Some of my HTML code contains JavaScript but those were my own personal addition
   - All Racket files (no subdirectories)\
 
 </details>
-
-Notes:
 
 ## 📫 How to reach me:
 ### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
