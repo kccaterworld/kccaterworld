@@ -2,7 +2,7 @@
 
 ## Hi omigosh welcome!
 
-[](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)]
 
 
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
