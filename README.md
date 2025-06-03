@@ -1,13 +1,3 @@
-<script>
-	function copyText(text) {
-        navigator.clipboard.writeText(text)
-        console.log("${text} copied successfully!")
-    }
-    function testing() {
-        console.log("Test works!")
-    }
-</script>
-
 # kccaterworld
 
 ## Hi omigosh welcome!
@@ -130,38 +120,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 
 ## 📫 How to reach me:
 #### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
-
-<div class="emailLink">
-            <script>
-                function copyText(text) {
-                    navigator.clipboard.writeText(text)
-                    console.log("${text} copied successfully!")
-                }
-            </script>
-            <style>
-                button {
-                    display: block;
-                }
-                .emailLink button {
-                    background-color: transparent;
-                    border: none;
-                }
-                .emailLink a {
-                    text-decoration: none;
-                }
-                .emailLink a:hover, .emailLink a button:hover {
-                    color: blue;
-                    text-decoration: underline;
-                }
-            </style>
-            <a href="mailto:kc@caterworld.xyz" target="_blank">
-                <button onclick="copyText('kc@caterworld.xyz')" target="_blank">
-                    kc@caterworld.xyz
-                </button>
-            </a>
-        </div>
-
-Email: <a href="mailto:kc@caterworld.xyz" target="_blank"><button onclick="copyText('kc@caterworld.xyz')" target="_blank" style="border: none; background-color: white;">kc@caterworld.xyz</button></a>
+Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
 
 Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
 
