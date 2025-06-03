@@ -18,7 +18,7 @@ My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWR
 
 Feel free to reach out, I'll respond as quickly as I can.
 
-| Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact](#-how-to-reach-me) |
+| Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact Me](#-how-to-reach-me) |
 | ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
 
 ## 🔭 Current Major Projects:
@@ -120,6 +120,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 
 ## 📫 How to reach me:
 #### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
+Email: [kc@caterowlrd.xyz](mailto:john@example.com)
 Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
 
 Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
