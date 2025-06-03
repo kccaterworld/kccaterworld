@@ -1,3 +1,13 @@
+<script>
+	function copyText(text) {
+        navigator.clipboard.writeText(text)
+        console.log("${text} copied successfully!")
+    }
+    function testing() {
+        console.log("Test works!")
+    }
+</script>
+
 # kccaterworld
 
 ## Hi omigosh welcome!
@@ -120,7 +130,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 
 ## 📫 How to reach me:
 #### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
-Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
+Email: <a href="mailto:kc@caterworld.xyz" target="_blank"><button onclick="copyText('kc@caterworld.xyz')" target="_blank" style="border: none; background-color: white;">kc@caterworld.xyz</button></a>
 
 Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
 
