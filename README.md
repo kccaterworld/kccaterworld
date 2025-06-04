@@ -82,7 +82,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 <details>
 <summary>Repository Structure:</summary>
 
-- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository. It still needs to be updated.
+- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository.
 - [HTML](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/HTML): Contains all the HTML files
   - MyWebsite: Folder for MyWebsite project
   - Other HTML files
