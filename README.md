@@ -22,7 +22,7 @@ Feel free to reach out, I'll respond as quickly as I can.
 | ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
 
 ## 🔭 Current Major Projects:
-As of June 2025, I will have finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) and will be starting AP Computer Science in the fall.
+I finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) in June 2025 and will be starting AP Computer Science in September 2025.
 
 I'll make an APCS repository when the time comes, there's no need to make a repository that'll be empty all summer.
 
@@ -125,10 +125,6 @@ Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
 Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==)
 
 Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
-
-Facebook: [ProfessorKamel](https://www.facebook.com/share/1ESDT8K8Sa/)
-
-Pintrest: [Kemal Cater](https://www.pinterest.com/kemalcater/)
 
 Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
 
