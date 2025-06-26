@@ -114,7 +114,7 @@ Some of my HTML code contains JavaScript but those were my own personal addition
     - Main Python file
     - CSV data file
 - [Racket](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Racket): Contains all the DrRacket files
-  - All Racket files (no subdirectories)\
+  - All Racket files (no subdirectories)
 
 </details>
 
