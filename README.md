@@ -119,16 +119,9 @@ Some of my HTML code contains JavaScript but those were my own personal addition
 </details>
 
 ## 📫 How to reach me:
-#### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
 Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
 
-Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel)
-
-Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
-
-Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
-
-Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4)
+LinkedIn: [Kemal Cater](https://www.linkedin.com/in/kemalcater/)
 
 <br>
 
