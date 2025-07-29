@@ -1,5 +1,7 @@
 # kccaterworld
 
+<!-- [![encryption badge](https://hackatime-badge.hackclub.com/U0918A4S79V/encryption)](https://github.com/kccaterworld/encryption) -->
+
 ## Hi omigosh welcome!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)](https://git.io/typing-svg)
@@ -75,8 +77,6 @@ We used a few types of AI model to classify paintings by art style.
 
 ### [Intro to Computer Science Class](https://github.com/kccaterworld/kcater70IntroToCS)
 The repository for my High School Intro to Computer Science class, which I took during the 2024-2025 school year.
-
-[![encryption badge](https://hackatime-badge.hackclub.com/U0918A4S79V/encryption)](https://github.com/kccaterworld/encryption)
 
 In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python.
 Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
