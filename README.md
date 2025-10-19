@@ -28,7 +28,7 @@ I finished my [Intro to Computer Science Course](https://github.com/kccaterworld
 
 I'll make an APCS repository when the time comes, there's no need to make a repository that'll be empty all summer.
 
-I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), and the grind truly never ends.
+I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), which now includes [my blog](https://github.com/kccaterworld/blog), and the grind truly never ends.
 
 That's really it in terms of projects in progress right now, I don't have time for much more.
 
