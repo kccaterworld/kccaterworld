@@ -76,6 +76,9 @@ The repository for my implementation of Conway's Game of Life.
 </details>
 
 ### [encryption](https://github.com/kccaterworld/encryption)
+
+[![encryption badge](https://hackatime-badge.hackclub.com/U0918A4S79V/encryption)](https://github.com/kccaterworld/encryption)
+
 The repository for my encryption repository.
 
 Although it's called encryption, it's largely focused on data representation, and also includes hashing, ciphers, encoding and decoding, and compression.
