@@ -14,21 +14,17 @@ and [my own personal website](https://github.com/kccaterworld/kccaterworld.githu
 
 You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me.
 
-My username on [Instagram](https://www.instagram.com/professorkamel?igsh=MTJodWRlOHRsdzh2Yw==) and [Discord](https://discord.com/users/1137731457167659031) is ProfessorKamel, and my email is kc@caterworld.xyz.
-
 Feel free to reach out, I'll respond as quickly as I can.
 
 | Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact Me](#-how-to-reach-me) |
 | ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
 
 ## 🔭 Current Major Projects:
-I finished my [Intro to Computer Science Course](https://github.com/kccaterworld/kcater70IntroToCS) in June 2025 and will be starting AP Computer Science in September 2025.
+I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption). This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are [Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash), although I plan to work on adding compression algorithms and Vigenère ciphers.
 
-I'll make an APCS repository when the time comes, there's no need to make a repository that'll be empty all summer.
+I'm also exploring rendering and game development with [game-of-life](https://github.com/kccaterworld/game-of-life), which is Conway's Game of Life implemented in Python using a few different rendering methods, including Pygame. The skills I learn from this project will be used for my rendering engine, which is still in the planning stages.
 
-I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), and the grind truly never ends.
-
-That's really it in terms of projects in progress right now, I don't have time for much more.
+I'm always working on [my website](https://github.com/kccaterworld/kccaterworld.github.io), and the grind truly never ends. It now even includes my [blog](https://github.com/kccaterworld/blog)!
 
 ## 💻 My various projects on here
 ### [My Website](https://github.com/kccaterworld/kccaterworld.github.io)
@@ -60,75 +56,59 @@ Currently only contains my profile README
 
 </details>
 
-### [Inspirit AI+X](https://github.com/kccaterworld/inspiritwork)
-The repository for a reasearch project I did as part of the Inspirit AI+X program.
-
-We used a few types of AI model to classify paintings by art style.
+### [Game-of-Life](https://github.com/kccaterworld/game-of-life)
+The repository for my implementation of Conway's Game of Life.
 
 <details>
 <summary> Repository Structure: </summary>
 
-- [README.md](https://github.com/kccaterworld/inspiritwork/blob/main/README.md): README file for this Repository
-- mainish.ipynb: The Jupyter notebook containing all the code for the project
+- [README.md](https://github.com/kccaterworld/game-of-life/blob/main/README.md): README file for this Repository
+- [Python](https://github.com/kccaterworld/game-of-life/blob/main/Python): Contains all the Python files
+  - gol.ipynb: Main Jupyter Notebook containing the PyOpenGL and Pygame implementations
+  - golarc.py: Code for implementing with the Arcade library
+  - golwx.py: Code for implementing with the wxPython library
+  - 2dgol.py: Eventual code for 2D implementation using Pygame, currently empty
+- [Rust](https://github.com/kccaterworld/game-of-life/blob/main/Rust): Contains all the Rust files
+  - game-of-life: Cargo project for Game of Life in Rust, currently empty
+- [Assets](https://github.com/kccaterworld/game-of-life/blob/main/assets): Contains all the assets for the project
+  - Sprites: Contains sprite images for the project, used in Arcade implementation
 
 </details>
 
-### [Intro to Computer Science Class](https://github.com/kccaterworld/kcater70IntroToCS)
-The repository for my High School Intro to Computer Science class, which I took during the 2024-2025 school year.
+### [encryption](https://github.com/kccaterworld/encryption)
+The repository for my encryption repository.
 
-In this class, we covered, in order, DrRacket, NetLogo, HTML and CSS, and Python.
-Some of my HTML code contains JavaScript but those were my own personal additions, based on prior knowledge.
+Although it's called encryption, it's largely focused on data representation, and also includes hashing, ciphers, encoding and decoding, and compression.
+
+Collaboration between me and [Melody-TG](https://github.com/Melody-TG), more people are welcome to contribute! Contributing guide can be found in [CONTRIBUTING.md](https://github.com/kccaterworld/encryption/blob/main/CONTRIBUTING.md) or near the repository README.
 
 <details>
 <summary>Repository Structure:</summary>
 
-- [README.md](https://github.com/kccaterworld/kcater70IntroToCS/blob/main/README.md): README file for this Repository.
-- [HTML](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/HTML): Contains all the HTML files
-  - MyWebsite: Folder for MyWebsite project
-  - Other HTML files
-- [NetLogo](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/NetLogo): Contains all the NetLogo files
-  - All NetLogo files (no subdirectories)
-- [Python](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Python): Contains all the Python files
-  - DataProject: Folder for DataProject project
-    - CSS: CSS for the project
-    - HTML: HTML files are written to this directory
-    - IMG: Images are saved to this directory
-    - Main Python file
-    - CSV data file
-  - Misc: Contains all other Python files
-  - pokemon: Folder for pokemon Project
-    - CSS: The CSS file is written to this directory
-    - HTML: HTML files are written to this directory 
-    - img: Images for the project
-      - back: Images of the back of the pokemon
-      - front: Images of the front of the pokemon
-      - inteleon image
-    - Main Python file
-    - CSV data file
-  - pokemonTemplate: Folder with v2/template of my pokemon project
-    - CSS: The CSS file is written to this directory
-    - HTML: HTML files are written to this directory 
-    - img: Images for the project
-      - back: Images of the back of the pokemon
-      - front: Images of the front of the pokemon
-    - Main Python file
-    - CSV data file
-- [Racket](https://github.com/kccaterworld/kcater70IntroToCS/tree/main/Racket): Contains all the DrRacket files
-  - All Racket files (no subdirectories)
+- [README.md](https://github.com/kccaterworld/encryption/blob/main/README.md): README file for this Repository.
+- [Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar): Contains all the Caesar Cipher files, Main contributor: kccaterworld
+  - Wordlists: Folder containing text files with wordlists for decryption brute force validation
+  - [README.md](https://github.com/kccaterworld/encryption/blob/main/Caesar/README.md): README file for the Caesar Cipher project
+  - caesar.ipynb: Jupyter Notebook for initial development and testing, highly experimental
+  - caesar.py: Official Caesar cipher Python file, stable, can be imported as a module
+- [Compression](https://github.com/kccaterworld/encryption/tree/main/Compression): Contains all the compression algorithm files, Main contributor: kccaterworld
+  - compression.ipynb: Jupyter Notebook for initial development and testing of compression algorithms
+- [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash): Contains all the hash files, Main contributor: kccaterworld
+  - hashing.ipynb: Jupyter Notebook for initial development and testing of hashing algorithms
+- [RSA](https://github.com/kccaterworld/encryption/tree/main/RSA): Contains all the RSA encryption files, Main contributor: kccaterworld
+  - data.txt: Text file containing data for testing RSA encryption and decryption
+  - encodeddata.txt: Text file containing base64 encoded data for verification
+  - rsa.ipynb: Jupyter Notebook for main development and testing of RSA encryption
+  - rsa.py: Python file, unstable, not ready for use yet
+- [Translation](https://github.com/kccaterworld/encryption/tree/main/Translation): Contains all the translation files, Main contributor: Melody-TG
+  - baseconvert.py: Implementation of conversion between different integer bases
+  - Translator.py: Implementation of text translation between different integer bases
 
 </details>
 
 ## 📫 How to reach me:
-#### (As I am writing this up, I'm realizing that if I ever change my name, it's gonna be a huge pain to update my usernames)
-Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
 
-Instagram: [ProfessorKamel](https://www.instagram.com/professorkamel)
-
-Discord: [ProfessorKamel](https://discord.com/users/1137731457167659031)
-
-Google for Developers: [ProfessorKamel](http://g.dev/professorkamel)
-
-Spotify: [ProfessorKamel](https://open.spotify.com/user/31uuicutk5i635gxru4fuw2crkv4)
+- Email: [kc@caterworld.xyz](mailto:kc@caterworld.xyz)
 
 <br>
 
