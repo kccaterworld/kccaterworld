@@ -142,7 +142,7 @@ Future plans and goals:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📫 How to reach me:
-[![](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&label=Email%20Me!)](mailto:kc@caterworld.xyz) 
+[![](https://img.shields.io/badge/email_me-badge?logo=gmail&logoColor=white&style=for-the-badge&color=darkgreen)](mailto:kc@caterworld.xyz) 
 
 <br>
 
