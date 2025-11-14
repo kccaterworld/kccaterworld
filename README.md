@@ -1,6 +1,6 @@
 # kccaterworld
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)]()
 
 ![](https://github-readme-stats.vercel.app/api?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
@@ -15,15 +15,21 @@ and [my own personal website](https://github.com/kccaterworld/kccaterworld.githu
 
 You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me.
 
-Feel free to reach out, I'll respond as quickly as I can.
+Feel free to reach out, I'll respond as quickly as I can. 
 
 
 ## 🔭 Current Major Projects:
-I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption). This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are [Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash), although I plan to work on adding compression algorithms and Vigenère ciphers.
+I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption).
+This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are
+[Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash),
+although I plan to work on adding compression algorithms and Vigenère ciphers.
 
-I'm also exploring rendering and game development with [game-of-life](https://github.com/kccaterworld/game-of-life), which is Conway's Game of Life implemented in Python
+I'm also exploring rendering and game development with [Game of Life](https://github.com/kccaterworld/game-of-life), which is Conway's Game of Life implemented in Python
 using a few different rendering methods, including Pygame. The skills I learn from this project will be used for my rendering engine, which is still in the planning stages.
 Eventually I want to implement this in Rust as well, although I'm still learning Rust so that's a long way off.
+
+Game of Life is intended to be a stepping stone into more complex rendering, and once I finish that I hope to build a custom 2d and even 3d rendering engine
+from scratch. I'm currently working on learning the math behind 3d rendering, and once I have a good grasp of that I will start actually implementing an engine.
 
 ## 🧠 Skills
 
@@ -100,7 +106,8 @@ The repository for my encryption repository.
 
 Although it's called encryption, it's largely focused on data representation, and also includes hashing, ciphers, encoding and decoding, and compression.
 
-Collaboration between me and [Melody-TG](https://github.com/Melody-TG), more people are welcome to contribute! Contributing guide can be found in [CONTRIBUTING.md](https://github.com/kccaterworld/encryption/blob/main/CONTRIBUTING.md) or near the repository README.
+Collaboration between me and [Melody-TG](https://github.com/Melody-TG), more people are welcome to contribute! Contributing guide
+can be found in [CONTRIBUTING.md](https://github.com/kccaterworld/encryption/blob/main/CONTRIBUTING.md) or near the repository README.
 
 Future plans and goals:
 - Implement more ciphers, including Vigenère ciphers and 
