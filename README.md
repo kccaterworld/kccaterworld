@@ -1,6 +1,6 @@
 # kccaterworld
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)]()
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)
 
 ![](https://github-readme-stats.vercel.app/api?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
