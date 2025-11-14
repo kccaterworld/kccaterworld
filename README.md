@@ -17,8 +17,6 @@ You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), whi
 
 Feel free to reach out, I'll respond as quickly as I can.
 
-| Quick Nav: | [Current Projects](#-current-major-projects) | [All Projects](#-my-various-projects-on-here) | [Contact Me](#-how-to-reach-me) |
-| ----------- | ------------------------------------ | ------------------------------------ | --------------------------- |
 
 ## 🔭 Current Major Projects:
 I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption). This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are [Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash), although I plan to work on adding compression algorithms and Vigenère ciphers.
