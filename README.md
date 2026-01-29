@@ -3,14 +3,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&vCenter=true&repeat=false&random=true&lines=Hi%2C+I'm+Kemal!)]()
 
 [![](https://github-readme-stats.vercel.app/api?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kccaterworld&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)]()
+[![Language Stats](stats/leaderboard_by_weighted.png)]()
 <br>
 [![](https://nirzak-streak-stats.vercel.app/?user=kccaterworld&theme=radical&hide_border=false)]()
 <br>
 
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
-![Language Stats](stats/leaderboard_by_weighted.png)
 This is my GitHub account, where I have repos for some of my [AI research](https://github.com/kccaterworld/inspiritwork),
 [my high school comp sci classes](https://github.com/kccaterworld/kcater70IntroToCS),
 and [my own personal website](https://github.com/kccaterworld/kccaterworld.github.io) hosted.
