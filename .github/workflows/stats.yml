@@ -19,6 +19,6 @@ jobs:
           visualization_types: "leaderboard"
           output_path: "stats"
           dark_mode: true
-          exclude_languages: "HTML,CSS,nix,Ruby,SCSS"
+          exclude_languages: "HTML,CSS,NIX,Ruby,SCSS"
           include_forks: true
           
