@@ -10,7 +10,7 @@
 
 I'm Kemal (they/them), a high schooler just trying to survive the stress while also teaching myself three different programming languages outside of class.
 I'm not great, but I'm working on improving and growing my skillset.
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_weighted.png)
 This is my GitHub account, where I have repos for some of my [AI research](https://github.com/kccaterworld/inspiritwork),
 [my high school comp sci classes](https://github.com/kccaterworld/kcater70IntroToCS),
 and [my own personal website](https://github.com/kccaterworld/kccaterworld.github.io) hosted.
