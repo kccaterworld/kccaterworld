@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: StefVuck/Github-Language-Stats@v1.1.0
+        continue-on-error: true
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard"
@@ -25,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats/.badge_cache/
+          git add stats/.badge_cache/ || true
           git commit -m "Update badge cache" || echo "Nothing to commit"
-          git push
+          git push || echo "Nothing to push"
           
