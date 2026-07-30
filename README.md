@@ -17,17 +17,12 @@ Feel free to reach out, I'll respond as quickly as I can.
 
 
 ## 🔭 Current Major Projects:
-I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption).
-This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are
-[Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash),
+I'm working on various types of data representation and visualization, including [hashing, ciphers, and encryption](https://github.com/kccaterworld/encryption). This project is in collaboration with [my friend, Melody-TG](https://github.com/Melody-TG). The current major programs are [Caesar](https://github.com/kccaterworld/encryption/tree/main/Caesar) and [Hash](https://github.com/kccaterworld/encryption/tree/main/Hash),
 although I plan to work on adding compression algorithms and Vigenère ciphers.
 
-I'm also exploring rendering and game development with [Game of Life](https://github.com/kccaterworld/game-of-life), which is Conway's Game of Life implemented in Python
-using a few different rendering methods, including Pygame. The skills I learn from this project will be used for my rendering engine, which is still in the planning stages.
-Eventually I want to implement this in Rust as well, although I'm still learning Rust so that's a long way off.
+I'm also working on a framework called [Kanvas](https://github.com/kccaterworld/kanvas), a drawing and rendering framework written and based on Java. I'm learning how to do not only rendering, but also code parsing and processing. Eventually it will include dependency support, a custom build system, and GPU optimizated 3D rendering.
 
-Game of Life is intended to be a stepping stone into more complex rendering, and once I finish that I hope to build a custom 2d and even 3d rendering engine
-from scratch. I'm currently working on learning the math behind 3d rendering, and once I have a good grasp of that I will start actually implementing an engine.
+I'm also exploring rendering and game development with [Game of Life](https://github.com/kccaterworld/game-of-life), which is Conway's Game of Life implemented in Python using a few different rendering methods, including Pygame. The skills I learn from this project will be used for my rendering engine, which is still in the planning stages. Eventually I want to implement this in Rust as well, although I'm still learning Rust so that's a long way off.
 
 ## 🧠 Skills
 
@@ -36,6 +31,7 @@ from scratch. I'm currently working on learning the math behind 3d rendering, an
 [![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 
 ### ⚡ Tools & Libraries
@@ -50,17 +46,14 @@ from scratch. I'm currently working on learning the math behind 3d rendering, an
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
 ### 🌱 Learning
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)]()
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]()
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)]()
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)]()
 
 
 ## 💻 My various projects on here
