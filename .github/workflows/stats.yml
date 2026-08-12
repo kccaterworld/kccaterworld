@@ -29,4 +29,4 @@ jobs:
           git add stats/.badge_cache/ || true
           git commit -m "Update badge cache" || echo "Nothing to commit"
           git push || echo "Nothing to push"
-          
+
