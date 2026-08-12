@@ -8,7 +8,7 @@ This is my GitHub account, where I have repos for some of my [AI research](https
 [my high school comp sci classes](https://github.com/kccaterworld/kcater70IntroToCS),
 and [my own portfolio](https://github.com/kccaterworld/kccaterworld.github.io) hosted.
 
-You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me.
+You can also find my [soap store](https://go.caterworld.xyz/sudsysoapstore), which is hosted on GitLab, and was written and is still maintained by me. However, due to the stress and time consumption of school, I'm currently not accepting orders.
 
 Feel free to reach out, I'll respond as quickly as I can.
 
